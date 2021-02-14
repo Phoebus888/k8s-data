@@ -1,0 +1,1 @@
+FROM docker.io/bitnami/zookeeper:3.6.2-debian-10-r124
