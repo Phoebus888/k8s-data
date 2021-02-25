@@ -1,0 +1,1 @@
+FROM harbor.lishicloud.com/lishi/sentinel:1.8.1
