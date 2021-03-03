@@ -1,0 +1,1 @@
+FROM harbor.lishicloud.com/lishi/nginx:v0.1
