@@ -1,0 +1,1 @@
+FROM freemanliu/eureka:v1.0.0
