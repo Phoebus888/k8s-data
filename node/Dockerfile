@@ -1,0 +1,1 @@
+FROM harbor.lishicloud.com/lishi/node:latest
