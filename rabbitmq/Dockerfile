@@ -1,0 +1,1 @@
+FROM harbor.lishicloud.com/lishi/tools/rabbitmq-stomp:v1
