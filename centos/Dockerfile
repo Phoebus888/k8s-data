@@ -1,1 +1,1 @@
-FROM harbor.lishicloud.com/lishi/centos:v3
+FROM harbor.lishicloud.com/lishi/centos:v4
