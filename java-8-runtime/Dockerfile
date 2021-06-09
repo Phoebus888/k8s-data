@@ -1,0 +1,1 @@
+FROM harbor.lishicloud.com/lishi/java-8-runtime:v2.1.0

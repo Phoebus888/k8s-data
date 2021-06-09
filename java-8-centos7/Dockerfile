@@ -1,0 +1,1 @@
+FROM harbor.lishicloud.com/lishi/java-8-centos7:v2.1.0
