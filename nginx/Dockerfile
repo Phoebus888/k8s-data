@@ -1,1 +1,1 @@
-FROM harbor.lishicloud.com/lishi/nginx:v0.1
+FROM qw-prd-acr-registry.cn-shenzhen.cr.aliyuncs.com/quchengshi/nginx:v2
