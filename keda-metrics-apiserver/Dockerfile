@@ -1,1 +1,1 @@
-FROM ghcr.io/kedacore/keda-metrics-apiserver
+FROM ghcr.io/kedacore/keda-metrics-apiserver:2.4.0
