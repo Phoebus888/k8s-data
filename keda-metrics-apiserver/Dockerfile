@@ -1,0 +1,1 @@
+FROM ghcr.io/kedacore/keda-metrics-apiserver
