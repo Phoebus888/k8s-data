@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/kafka:2.7.0-debian-10-r35
+FROM k8s.gcr.io/descheduler/descheduler:v0.19.0
