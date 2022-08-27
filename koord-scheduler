@@ -1,0 +1,1 @@
+FROM ghcr.io/koordinator-sh/koord-scheduler:0.6.2
