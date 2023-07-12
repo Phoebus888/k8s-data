@@ -1,1 +1,1 @@
-FROM diegoluisi/backstage:0b1f3125
+FROM registry.theflyingbirds.net/backstage:latest
