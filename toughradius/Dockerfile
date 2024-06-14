@@ -1,1 +1,1 @@
-FROM talkincode/toughradius:latest
+FROM talkincode/toughradius:v8.0.8
